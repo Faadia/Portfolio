@@ -1,0 +1,107 @@
+ul {
+  position: static;
+  list-style: none;
+  display: block;
+  width: 98%;
+  height: 80px;
+  margin: 0;
+}
+
+li {
+  text-align: center;
+  margin: 5px;
+  font-size: 2em;
+  float: right;
+  color: #FE4A49;
+  font-family: 'Nosifer', sans-serif;
+  border-right-style: ridge;
+}
+
+li:hover {
+  color: #2AB7CA;
+  transition: 2s ease;
+  border: 3px solid #DFE2CF;
+  width: 250px;
+}
+
+.hero img {
+  width: 100%;
+  object-fit: cover;
+  height: 350px;
+}
+
+nav img {
+  height: 90px;
+}
+
+.wrapper img {
+  width: 150px;
+  height: 100px;
+  margin: 1em;
+} 
+
+.wrapper {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.square {
+  margin: 90px;
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  overflow: hidden;
+  display: inline-block;
+}
+
+.diamond {
+  background-image: url("images/Faadia Langeveldt.jpg");
+  background-repeat: no-repeat;
+  width: 375px;
+  height: 365px;
+  margin: -25px;
+}
+
+.about-content {
+  width: 50%;
+  float: right;
+  margin: 2em;
+}
+
+h3 {
+  font-size: 2em;
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+}
+
+hr {
+  border-style: ridge;
+  width: 50%;
+}
+
+p {
+  font-size: 23px;
+}
+
+.contact-group {
+  text-align: center;
+}
+
+label {
+  font-size: 30px;
+  font-family: 'Luckiest Guy', sans-serif;
+  margin: 2em;
+}
+
+input {
+  height: 45px;
+  width: 310px;
+  font-size: 20px;
+  text-align: center;
+  margin: 1em;
+}
+
+button {
+  font-size: 30px;
+  font-family: 'anton', sans-serif;
+}
