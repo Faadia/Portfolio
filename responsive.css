@@ -64,13 +64,14 @@
   }
 }
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 780px) {
   .about-content {
     width: 85%;
   }
 
   .diamond {
     margin: 2em;
+    text-align: center;
   }
 
   a {
@@ -82,7 +83,7 @@
   }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 850px) {
   .about-content {
     width: 90%;
   }
