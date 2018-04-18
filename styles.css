@@ -6,7 +6,7 @@ ul {
   margin: 0;
 }
 
-a {
+li a {
   text-decoration: none;
   color: #FE4A49;
   text-align: center;
