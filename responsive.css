@@ -64,6 +64,12 @@
   }
 }
 
+@media screen and (max-width: 650px) {
+  li a {
+    font-size: 20px;
+  }
+}
+
 @media screen and (max-width: 780px) {
   .about-content {
     width: 85%;
@@ -83,7 +89,7 @@
   }
 }
 
-@media screen and (max-width: 850px) {
+@media screen and (max-width: 1040px) {
   .about-content {
     width: 90%;
   }
