@@ -1,0 +1,22 @@
+.square {
+  margin: 90px;
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  overflow: hidden;
+  display: inline-block;
+}
+  
+.diamond {
+  background-image: url("images/Faadia Langeveldt.jpg");
+  background-repeat: no-repeat;
+  width: 375px;
+  height: 365px;
+  margin: -25px;
+}
+  
+.about-content {
+  width: 50%;
+  float: right;
+  margin: 2em;
+}

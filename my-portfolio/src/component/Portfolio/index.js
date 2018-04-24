@@ -17,6 +17,8 @@ class Portfolio extends Component {
         <img src={nelsonMandela} alt="NELSON MANDELA" />
         <img src={cssProject} alt="CSS PROJECT" />
         <img src={birdwatching} alt="BIRDWATCHING" />
+
+        <hr />
       </div>
     );
   }
