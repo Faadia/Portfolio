@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Luckiest+Guy|Nosifer');
+
+h3 {
+  font-size: 2em;
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+}
+  
+hr {
+  border-style: ridge;
+  width: 50%;
+}
+  
+p {
+  font-size: 23px;
+}
