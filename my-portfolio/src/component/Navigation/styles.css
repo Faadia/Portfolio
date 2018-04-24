@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Luckiest+Guy|Nosifer');
+
+ul {
+  position: static;
+  list-style: none;
+  display: block;
+  height: 80px;
+  margin: 0;
+}
+  
+li a {
+  text-decoration: none;
+  color: #FE4A49;
+  text-align: center;
+  margin: 5px;
+  font-size: 2em;
+  float: right;
+  font-family: 'Nosifer', sans-serif;
+  border-right-style: ridge;
+}
+  
+li a:hover {
+  color: #2AB7CA;
+  transition: 2s ease;
+  border: 3px solid #DFE2CF;
+  width: 250px;
+}
+
+nav img {
+  height: 90px;
+}
+  
+.icon {
+  display: none;
+}
