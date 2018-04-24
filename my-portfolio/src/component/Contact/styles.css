@@ -1,0 +1,26 @@
+.contact-group {
+    text-align: center;
+  }
+  
+  label {
+    font-size: 30px;
+    font-family: 'Luckiest Guy', sans-serif;
+    margin: 2em;
+  }
+  
+  input {
+    height: 45px;
+    width: 310px;
+    font-size: 20px;
+    text-align: center;
+    margin: 1em;
+  }
+  
+  button {
+    font-size: 30px;
+    font-family: 'anton', sans-serif;
+  }
+  
+  #inputMail {
+    margin: 25px;
+  }
